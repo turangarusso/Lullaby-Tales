@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  SweetDreams
+
+  Created by Ac Analytics.
+  
+*/
+
+"Welcome" = "Bienvenu";
+"Hi, I'm Brillantina. Let's create our story" = "Salut, je suit Brillantina, créons notre histoire!";
+"New Story" = "Nouvelle histoire";
+"Check all the stories" = "Consultez vos histoires";
+"Hero" = "Héro";
+"Who's your protagonist" = "Qui est le protagoniste?";
+"Next" = "Suivant";
+"Anti-Hero" = "Anti-Héro";
+"Who's the other character" = "Qui est l'autre personnage?";
+"Theme" = "Thème";
+"What's the story about" = "Quel est le sujet de l'histoire ?";
+"Summary" = "Synthèse";
+"Let's mix everything" = "Mélangeons tout";
+"Create" = "Génère";
+"Library" = "Archive";
+"Check old stories" = "Consultez vos histoires";
+"Caricamento..." = "Chargement...";
+
+"Trova un luogo tranquillo e silenzioso per leggere." = "Trouver un endroit calme et paisible pour lire.";
+
+"Leggi con voce calma e rilassata." = "Lire d'une voix calme et détendue.";
+
+"Fai delle pause e lascia che il bambino assimili le informazioni." = "Faites des pauses et laissez l'enfant assimiler l'information.";
+
+"Usa toni di voce diversi per interpretare i personaggi." = "Utilisez différents tons de voix pour interpréter les personnages.";
+
+"Parla con il bambino e chiedete cosa pensa della storia e dei personaggi." = "Parlez à l'enfant et demandez-lui ce qu'il pense de l'histoire et des personnages.";
+
+"Leggi con regolarità per creare una routine rilassante e confortevole per il bambino." = "Lisez régulièrement pour créer une routine confortable pour l'enfant.";
+
+
+"HERO_PROMPT_FORMAT_FR" = "Héros: [%@], Anti-Héros: [%@], Thème: [%@]. édigez une courte histoire d'environ 650 mots qui intègre le héros, l'anti-héros, la morale et le thème indiqués ci-dessus. L'histoire doit avoir un titre, un début, un milieu et une fin clairs, et un conflit qui est finalement le moral de l'histoire.";
+
+"HERO_SYSTEM_FORMAT_FR" = "Vous êtes Brillantina, une sorcière qui crée des histoires pour les enfants âgés de 3 à 6 ans, et commence toujours le récit par 'Il était une fois'.";
+
+"HERO_PROMPT_FORMAT_FR" = "Héros: [%@], Anti-Héros: [%@], Thème: [%@]. Rédigez une courte histoire d'environ 650 mots qui intègre le héros, l'anti-héros, la morale et le thème indiqués ci-dessus. L'histoire doit avoir un titre, un début, un milieu et une fin clairs, et un conflit qui est finalement le moral de l'histoire.";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Article avant le nom : utiliser UN/UNE si le nom est indéterminé, utiliser les articles définis si le nom est destiné à être un nom propre.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a ninja vs. There was Ninja)." = "L'utilisation d'une majuscule au début du nom en fait un nom propre (par exemple : Il y avait un ninja vs. Il y avait Ninja).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Vous pouvez construire le nom du personnage en utilisant des adjectifs qui lui donnent de la personnalité, suivis de son nom (par exemple, la bonne magicienne Brillantina).";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Article avant le nom : utiliser UN/UNE si le nom est indéterminé, utiliser les articles définis si le nom est destiné à être un nom propre.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a dragon vs. There was a evil dragon)." = "L'utilisation d'une majuscule au début du nom en fait un nom propre (par exemple : Il y avait un ninja vs. Il y avait Ninja).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Vous pouvez construire le nom du personnage en utilisant des adjectifs qui lui donnent de la personnalité, suivis de son nom (par exemple, la bonne magicienne Brillantina).";
+
+"The theme in a story is the main message or idea that the author wants to convey to the readers. It's like a lesson or a moral that can be drawn from the story." = "Le thème d'une histoire est le message ou l'idée principale que l'auteur veut transmettre aux lecteurs. C'est comme une leçon ou une morale que l'on peut tirer de l'histoire.";
+"It helps to make sense of the story and to make us think about what is important in life. For example, the theme of a story could be the importance of friendship or the strength of love." = "Il permet de donner un sens à l'histoire et de nous faire réfléchir à ce qui est important dans la vie. Par exemple, le thème d'une histoire peut être l'importance de l'amitié ou la force de l'amour.";
+"The theme is important because it helps us to understand the author's message and gives us." = "Le thème est important car il nous aide à comprendre le message de l'auteur et nous donne.";
+

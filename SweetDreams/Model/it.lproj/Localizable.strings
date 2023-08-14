@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  SweetDreams
+
+  Created by Ac Analytics.
+  
+*/
+
+"Welcome" = "Benvenuto";
+"Hi, I'm Brillantina. Let's create our story" = "Ciao, Sono Brillantina. Creiamo la nostra storia";
+"New Story" = "Nuova Storia";
+"Library" = "Libreria";
+"Who's your protagonist" = "Chi è il tuo protagonista";
+"Hero" = "Eroe";
+"Next" = "Avanti";
+"Anti-Hero" = "Anti-Eroe";
+"Who's the other character" = "Chi è l’altro personaggio";
+"Theme" = "Tema";
+"What's the story about" = "Di cosa parla la storia?";
+"Summary" = "Riepilogo";
+"Let's mix everything" = "Mescoliamo tutto";
+"Create" = "Genera";
+"Check old stories" = "Leggi le vecchie storie";
+
+
+"HERO_PROMPT_FORMAT_IT" = "Eroe: [%@], Anti-Eroe: [%@], Tema: [%@]. Scrivi una breve storia di circa 650 parole che incorpori l'eroe, l'anti-eroe, il morale e il tema forniti sopra. La storia dovrebbe avere un titolo, un inizio, una parte centrale e una fine chiari e dovrebbe includere un conflitto che alla fine viene risolto in modo che rafforzi il morale scelto.";
+
+
+
+"HERO_SYSTEM_FORMAT_IT" = "Tu sei Brillantina, una strega che crea storie per bambini tra i 3 e i 6 anni, e inizia sempre la narrazione con 'C'era una volta'.";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Articolo prima del nome: usare UN/UNA se il nome è indeterminato, usa articoli determinativi se il nome è inteso come nome proprio.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a ninja vs. There was Ninja)." = "L'uso della lettera maiuscola all'inizio del nome lo renderà un nome proprio (ad esempio, C'era un ninja vs. C'era Ninja).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Si può costruire il nome del personaggio usando aggettivi che gli diano personalità seguiti dal nome (ad esempio, la strega Brillantina).";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Articolo prima del nome: usare UN/UNA se il nome è indeterminato, usa articoli determinativi se il nome è inteso come nome proprio.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a dragon vs. There was a evil dragon)." = "L'uso della lettera maiuscola all'inizio del nome lo renderà un nome proprio (ad esempio, C'era un drago vs. C'era Drago).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Si può costruire il nome del personaggio usando aggettivi che gli diano personalità seguiti dal nome (ad esempio, la strega Brillantina).";
+
+"The theme in a story is the main message or idea that the author wants to convey to the readers. It's like a lesson or a moral that can be drawn from the story." = "Il tema di una storia è il messaggio o l'idea principale che l'autore vuole trasmettere ai lettori. È come una lezione o una morale che si può trarre dalla storia.";
+"It helps to make sense of the story and to make us think about what is important in life. For example, the theme of a story could be the importance of friendship or the strength of love." = "Aiuta a dare un senso alla storia e a farci riflettere su ciò che è importante nella vita. Ad esempio, il tema di una storia potrebbe essere l'importanza dell'amicizia o la forza dell'amore.";
+"The theme is important because it helps us to understand the author's message and gives us." = "Il tema è importante perché ci aiuta a capire il messaggio dell'autore e ci dà la possibilità di capire il suo messaggio.";
+

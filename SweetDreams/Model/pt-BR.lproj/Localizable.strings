@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  SweetDreams
+
+  Created by Ac Analytics.
+  
+*/
+
+"Welcome" = "Bem-vindo";
+"Hi, I'm Brillantina. Let's create our story" = "Olá, eu sou a Brillantina. Vamos criar nossa história";
+"New Story" = "Nova estória";
+"Library" = "Biblioteca";
+"Hero" = "Herói";
+"Who's your protagonist" = "Quem é seu protagonista";
+"Next" = "Próximo";
+"Anti-Hero" = "Anti-herói";
+"Who's the other character" = "Quem é o antagonista";
+"Theme" = "Tema";
+"What's the story about" = "Qual é a história sobre";
+"Summary" = "Resumo";
+"Let's mix everything" = "Vamos misturar tudo";
+"Create" = "Gerar";
+"Check old stories" = "Verifique as histórias anteriores";
+"Caricamento..." = "Carregando...";
+
+"Trova un luogo tranquillo e silenzioso per leggere." = "Encontrar um lugar calmo e pacífico para ler";
+
+"Leggi con voce calma e rilassata." = "Leia com uma voz calma e descontraída";
+
+"Fai delle pause e lascia che il bambino assimili le informazioni." = "Faça pausas e deixe a criança assimilar a informação";
+
+"Usa toni di voce diversi per interpretare i personaggi." = "Usar diferentes tons de voz para interpretar as personagens";
+
+"Parla con il bambino e chiedete cosa pensa della storia e dei personaggi." = "Fale com a criança e pergunte-lhe o que pensa sobre a história e as personagens";
+
+"Leggi con regolarità per creare una routine rilassante e confortevole per il bambino." = "Lisez régulièrement pour créer une routine confortable pour l'enfant.";
+
+"HERO_PROMPT_FORMAT_PT" = "Herói: [%@], Anti-herói: [%@], Tema: [%@]. Escribe una historia corta de aproximadamente 650 palabras que incorpore al héroe, anti-héroe, moral y tema proporcionados anteriormente. La historia debe tener un título, un principio, un desarrollo y un final claro, e incluir un conflicto que se resuelva de manera que refuerce la moral elegida.";
+
+
+
+"HERO_SYSTEM_FORMAT_PT" = "Você é Brillantina, uma bruxa que cria histórias para crianças entre 3 e 6 anos, e começa a narrativa sempre com 'Era uma vez'.";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Artigo antes do nome: utilizar UM, UMA se o nome for indeterminado, utilizar artigos determinantes se o nome se destinar a ser um substantivo próprio.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a ninja vs. There was Ninja)." = "A utilização de uma letra maiúscula no início do nome fará dele um substantivo próprio (por exemplo, havia um ninja contra  Ninja).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Pode construir o nome da personagem usando adjectivos para lhes dar personalidade seguida do seu nome (por exemplo, A boa bruxa Brillantina).";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Artigo antes do nome: utilizar UM, UMA se o nome for indeterminado, utilizar artigos determinantes se o nome se destinar a ser um substantivo próprio.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a dragon vs. There was a evil dragon)." = "A utilização de uma letra maiúscula no início do nome fará dele um substantivo próprio (por exemplo, havia um drago contra Drago).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "Pode construir o nome da personagem usando adjectivos para lhes dar personalidade seguida do seu nome (por exemplo, A boa bruxa Brillantina).";
+
+"The theme in a story is the main message or idea that the author wants to convey to the readers. It's like a lesson or a moral that can be drawn from the story." = "O tema de uma história é a principal mensagem ou ideia que o autor quer transmitir aos leitores. É como uma lição ou uma moral que pode ser extraída da história.";
+"It helps to make sense of the story and to make us think about what is important in life. For example, the theme of a story could be the importance of friendship or the strength of love." = "Ajuda a dar sentido à história e a fazer-nos pensar sobre o que é importante na vida. Por exemplo, o tema de uma história poderia ser a importância da amizade ou a força do amor.";
+"The theme is important because it helps us to understand the author's message and gives us." = "O tema é importante porque nos ajuda a compreender a mensagem do autor e nos transmite.";
+

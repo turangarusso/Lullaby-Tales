@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  SweetDreams
+
+  Created by Ac Analytics.
+  
+*/
+
+"Welcome" = "Welcome";
+"Hi, I'm Brillantina. Let's create our story" = "Hi, I'm Brillantina. Let's create our story";
+"New Story" = "New Story";
+"Library" = "Library";
+"Hero" = "Hero";
+"Who's your protagonist" = "Who's your protagonist";
+"Next" = "Next";
+"Anti-Hero" = "Anti-Hero";
+"Who's the other character" = "Who's the other character";
+"Theme" = "Theme";
+"What's the story about" = "What's the story about";
+"Summary" = "Summary";
+"Let's mix everything" = "Let's mix everything";
+"Create" = "Generate";
+"Caricamento..." = "Loading...";
+
+
+"Trova un luogo tranquillo e silenzioso per leggere." = "Find a quiet and peaceful place to read.";
+
+"Leggi con voce calma e rilassata." = "Read in a calm, relaxed voice.";
+
+"Fai delle pause e lascia che il bambino assimili le informazioni." = "Take breaks and let the child assimilate the information.";
+
+"Usa toni di voce diversi per interpretare i personaggi." = "Use different tones of voice to interpret the characters.";
+
+"Parla con il bambino e chiedete cosa pensa della storia e dei personaggi." = "Talk to the child and ask what he/she thinks about the story and characters.";
+
+"Leggi con regolarità per creare una routine rilassante e confortevole per il bambino." = "Read regularly to create a comfortable routine for the child.";
+
+
+
+"HERO_PROMPT_FORMAT" = "Hero: [%@], Anti-Hero: [%@], Theme: [%@]. Write a short story of approximately 650 words that incorporates the hero, anti-hero, moral, and theme provided above. The story should have a title, clear beginning, middle, and end, and should include a conflict that is ultimately resolved in a way that reinforces the chosen moral.";
+
+
+"HERO_SYSTEM_FORMAT" = "You are Brillantina, a witch that creates stories for kids between 3 and 6 years, and starts the narrative always with once upon a time";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a ninja vs. There was Ninja)." = "Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a ninja vs. There was Ninja).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina).";
+
+"Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun." = "Article before the name: use A/AN if the name is indeterminate, use THE if the name is intended as a proper noun.";
+"Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a dragon vs. There was a evil dragon)." = "Using a capital letter at the beginning of the name will make it a proper noun (e.g. There was a dragon vs. There was a evil dragon).";
+"You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina)." = "You can build the character's name using adjectives to give them personality followed by their name (e.g. The good witch Brillantina).";
+
+"The theme in a story is the main message or idea that the author wants to convey to the readers. It's like a lesson or a moral that can be drawn from the story." = "The theme in a story is the main message or idea that the author wants to convey to the readers. It's like a lesson or a moral that can be drawn from the story.";
+"It helps to make sense of the story and to make us think about what is important in life. For example, the theme of a story could be the importance of friendship or the strength of love." = "It helps to make sense of the story and to make us think about what is important in life. For example, the theme of a story could be the importance of friendship or the strength of love.";
+"The theme is important because it helps us to understand the author's message and gives us." = "The theme is important because it helps us to understand the author's message and gives us.";
+

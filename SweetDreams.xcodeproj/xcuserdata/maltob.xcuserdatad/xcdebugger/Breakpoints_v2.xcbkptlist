@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "763E407A-8B3D-4297-B752-8A0E786E2425"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenAI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - ddc3f18ff1b36ebb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of OpenAI.ContentView.isPresent : Swift.Bool"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - 11330b7d45ae74c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.isPresent.getter : Swift.Bool"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - bf2cf1ee5af54cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.isPresent.setter : Swift.Bool"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - ca1325053fc94ac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.isPresent.modify : Swift.Bool"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - 3aa58f881bf522f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.isPresent.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - 94c3066a486e816d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.$isPresent.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "FE994C94-16D6-4F4D-8DD1-7C37F225B813 - 988440f5f965559d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAI.ContentView.init() -&gt; OpenAI.ContentView"
+                  moduleName = "OpenAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maltob/Documents/OpenAI/OpenAI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14B55E21-B3CF-4ABA-B40A-5BB78F74D614"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SweetDreams/View/InputViews/ThemeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
